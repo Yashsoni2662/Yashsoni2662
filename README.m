@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Yash Soni
+- 👀 I’m currently pursuing in Electronics and Communication Engineering from Maharishi Dayanand University, Rohtak
+- 🌱 I’m enthusiastic in making projects based on IOT, Embedded systems and robotics
+- 💞️ I’m looking to collaborate to build different projects based on IOT or microcontrollers (Arduino, Raspberry Pi, ESP32)
+- 📫 To reach me mail at "yashs2662@gmail.com"
+- 👋 My Linked in profile "https://www.linkedin.com/in/yash-soni-972b65219"
